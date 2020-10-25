@@ -8,12 +8,12 @@
 - Created CSS Folder in root 
 - Added tailwind directives in the style.css
 
-Installation
+### Installation
 
     npm init -y
     npm install tailwindcss
 
-Add Tailwind directives in root css file 
+### Add Tailwind directives in root css file 
 
     @tailwind base;
     @tailwind components;
