@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Learing Tailwind CSS with Building a Simple LAnding Page
 
 ## Steps 
@@ -18,3 +19,7 @@ Add Tailwind directives in root css file
     @tailwind components;
     @tailwind utilities;
 
+=======
+# TailwindDemo
+Learning and exploring tailwindcss
+>>>>>>> 92a1a5ea7757c748fe9951d6a776b4b0c9f9756c
