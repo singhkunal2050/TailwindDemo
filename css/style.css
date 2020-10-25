@@ -3,3 +3,5 @@
 @tailwind components;
 
 @tailwind utilities;
+
+/* during build these lines will be replaced by all classes of tailwind */
