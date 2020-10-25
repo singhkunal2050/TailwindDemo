@@ -4,13 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build" : "postcss css/style.css -o build/style.css"
+    "build": "postcss css/style.css -o build/style.css"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "autoprefixer": "^10.0.1",
+    "autoprefixer": "^9.8.6",
     "postcss-cli": "^8.1.0",
     "tailwindcss": "^1.9.6"
   }

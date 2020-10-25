@@ -11,6 +11,8 @@
 - Added PosCSS-Cli and AutoPrefixer node modules for building css with tailwind
 - Create Post CSS Config File
 - Adding Build script in package.json
+- Now build can be used to yield css output files
+- Create index.html in build/
 
 ### Installation
 
@@ -45,5 +47,9 @@
         "build" : "postcss css/style.css -o build/style.css"
     },
 
+### Now build can be used to yield css output files
+- Output files created in build/style.css
 
-
+### Create index.html in build/
+- The AutoPrefixer suggests us with all the tailwind classes
+  
