@@ -5,3 +5,12 @@
 @tailwind utilities;
 
 /* during build these lines will be replaced by all classes of tailwind */
+
+body {
+  font-family: "Rubik", sans-serif;
+}
+
+#menu-toggle:checked + #menu {
+  display: block;
+}
+
