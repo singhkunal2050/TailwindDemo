@@ -13,6 +13,7 @@
 - Adding Build script in package.json
 - Now build can be used to yield css output files
 - Create index.html in build/
+- Installed live-server module globally to serve the build page
 
 ### Installation
 
@@ -53,3 +54,8 @@
 ### Create index.html in build/
 - The AutoPrefixer suggests us with all the tailwind classes
   
+### Installed live server globally
+    npm install -g live-server
+    live-server build      // runs build folder live
+
+    
